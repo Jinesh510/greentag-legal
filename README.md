@@ -9,7 +9,7 @@ This repository hosts the legal documents for the GreenTag mobile application.
 
 ## 🌐 Website
 
-Visit: https://jineshshah510.github.io/greentag-legal/
+Visit: https://jinesh510.github.io/greentag-legal/
 
 ## 📱 App Integration
 
@@ -21,4 +21,4 @@ Documents are updated as needed to reflect changes in app functionality or legal
 
 ## 📞 Contact
 
-For questions about these documents, contact: jineshshah510@gmail.com 
+For questions about these documents, contact: team.greentag@gmail.com 
